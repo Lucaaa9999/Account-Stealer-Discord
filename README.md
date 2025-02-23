@@ -2,12 +2,11 @@
 
 REQUIRMENTS:
 
-PYTHON
+PYTHON :  https://www.python.org/downloads/
 
-STASTUS:
-
-WORKING
+STASTUS:WORKING
 
 LAST UPDATE:
 
-03/03/24
+23/02/25
+
