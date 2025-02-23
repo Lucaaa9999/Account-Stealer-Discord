@@ -2,7 +2,7 @@
 
 REQUIRMENTS:
 
-PYTHON :  https://www.python.org/downloads/
+PYTHON : https://www.python.org/downloads/
 
 STASTUS:WORKING
 
