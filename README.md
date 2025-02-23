@@ -1,2 +1,13 @@
 # Account-Stealer-Discord
-Grabs a discord account
+
+REQUIRMENTS:
+
+PYTHON
+
+STASTUS:
+
+WORKING
+
+LAST UPDATE:
+
+03/03/24
